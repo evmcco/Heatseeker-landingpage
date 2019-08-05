@@ -1,0 +1,78 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #e52d00;
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 6.854rem;
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  font-size: 4.236rem;
+  margin: 0;
+  padding: 0;
+}
+
+h3 {
+  color: #e52d00;
+  font-size: 2.618rem;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  font-size: 1.618rem;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.first-panel {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.phone-image {
+  float: right;
+  margin: 7.5vh 200px;
+  max-height: 85vh;
+}
+
+.mc_embed_signup {
+  color: black;
+}
+
+.mc-field-group {
+  font-size: 1.25rem;
+}
+
+.email {
+  height: 1.25rem;
+  font-size: 1.25rem;
+  /* margin: 10px; */
+  width: 35vw;
+}
+
+::-moz-placeholder {
+  /* Firefox 19+ */
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+}
+
+#mc-embedded-subscribe {
+  background-color: #e52d00;
+  border: 2px solid;
+  border-radius: 6px;
+  color: rgb(240, 240, 242);
+  font-size: 1.25rem;
+  height: 8vh;
+  margin-top: 15px;
+  width: 25vw;
+}
