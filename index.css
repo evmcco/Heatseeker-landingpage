@@ -41,7 +41,7 @@ body {
 
 .phone-image {
   float: right;
-  margin: 7.5vh 200px;
+  margin: 7.5vh 200px 7.5vh 100px;
   max-height: 85vh;
 }
 
@@ -75,4 +75,8 @@ body {
   height: 8vh;
   margin-top: 15px;
   width: 25vw;
+}
+
+#mc-embedded-subscribe:hover {
+  cursor: pointer;
 }
